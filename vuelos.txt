@@ -1,0 +1,40 @@
+# Base de datos ficticia de vuelos domesticos
+# Formato: Origen;Destino;Precio(USD);Aerolinea
+Quito;Guayaquil;65;AeroAndes
+Guayaquil;Quito;70;AeroAndes
+Quito;Cuenca;80;SkyEcuador
+Cuenca;Quito;78;SkyEcuador
+Guayaquil;Cuenca;45;SkyEcuador
+Cuenca;Guayaquil;48;SkyEcuador
+Quito;Manta;55;AeroAndes
+Manta;Quito;58;AeroAndes
+Manta;Guayaquil;35;SkyEcuador
+Guayaquil;Manta;38;SkyEcuador
+Quito;Esmeraldas;40;AeroAndes
+Esmeraldas;Quito;42;AeroAndes
+Quito;Lago Agrio;50;AmazonAir
+Lago Agrio;Quito;52;AmazonAir
+Quito;Coca;60;AmazonAir
+Coca;Quito;62;AmazonAir
+Lago Agrio;Coca;30;AmazonAir
+Coca;Lago Agrio;32;AmazonAir
+Coca;Tena;35;AmazonAir
+Tena;Coca;36;AmazonAir
+Quito;Tena;70;AmazonAir
+Tena;Quito;72;AmazonAir
+Tena;Puyo;25;AmazonAir
+Puyo;Tena;26;AmazonAir
+Quito;Puyo;110;AmazonAir
+Puyo;Quito;112;AmazonAir
+Puyo;Macas;28;AmazonAir
+Macas;Puyo;29;AmazonAir
+Macas;Cuenca;55;AmazonAir
+Cuenca;Macas;57;AmazonAir
+Guayaquil;Loja;60;SkyEcuador
+Loja;Guayaquil;62;SkyEcuador
+Cuenca;Loja;40;SkyEcuador
+Loja;Cuenca;42;SkyEcuador
+Quito;Loja;135;AeroAndes
+Loja;Quito;137;AeroAndes
+# Vuelo de un solo sentido (sirve para probar el caso "sin ruta")
+Galapagos;Guayaquil;130;SkyEcuador
